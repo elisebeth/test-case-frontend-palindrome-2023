@@ -9,7 +9,8 @@ const checkPalindrome = (word) => {
 	return reversedWord === cleanedWord;
 }
 
-const testArray = ['Муза, ранясь шилом опыта, ты помолишься на разума',
+const testArray = [
+	'Муза, ранясь шилом опыта, ты помолишься на разума',
 	'шалаш',
 	false,
 	12342321,
